@@ -1,0 +1,29 @@
+#seccion {
+float: left;
+widht: 660px;
+margin: 20px;
+}
+
+#columnai {
+float: left;
+widht: 220px;
+margin: 20px 0px;
+padding: 20px;
+background: #BBBBBB;
+}
+
+#columnac {
+float: center;
+widht: 220px;
+margin: 20px 0px;
+padding: 20px;
+background: #CCCCCC;
+}
+
+#columnad {
+float: right;
+widht: 220px;
+margin: 20px 0px;
+padding: 20px;
+background: #FFFFFF;
+}
